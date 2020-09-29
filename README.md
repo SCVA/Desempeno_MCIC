@@ -9,4 +9,6 @@
 <ol>
   <li>Instalar SWI Prolog</li>
   <li>https://www.swi-prolog.org/download/stable</li>
+  <li>Consult Desempeño.pl</li>
+  <li>?- go.</li>
 </ol>
